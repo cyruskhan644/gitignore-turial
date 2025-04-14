@@ -135,7 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
+CATTLE.xlsx
 # Spyder project settings
 .spyderproject
 .spyproject
